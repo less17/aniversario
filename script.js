@@ -1,5 +1,5 @@
 const no = document.querySelector('#no');
 
 no.addEventListener('click',function () {
-    alert('No me importa, dale que si y leela. <3')
+    alert('No me importa, dale que si y leela. ♥♥♥')
 })
